@@ -31,7 +31,7 @@ function App() {
           isclickbutton={true}
           pressClick={pressClick}/>
         <Button
-          texto='restart'
+          texto='Restart'
           isclickbutton={false}
           pressClick={restartClick} />
       </div>
